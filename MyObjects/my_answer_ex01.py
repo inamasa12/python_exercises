@@ -4,8 +4,8 @@ Created on Tue Jun 11 23:16:02 2019
 
 @author: mas
 
-%bookmark ri2 /Users/mas/Anaconda3/PythonScripts/RL2
-%cd ri2
+%bookmark ri3 /Users/mas/learning/python_exercises/MyObjects
+%cd ri3
 
 """
 
